@@ -5,6 +5,6 @@ FINAL
 * 可記收入<br>
 * 可記支出<br>
 * 有台、日、中三種幣值可選（總結為台幣顯示）<br>
-![](https://i.imgur.com/undefined.jpg)
+![](https://i.imgur.com/EaTCI9g.jpg)
 
 雖然是這麼寫啦但我只做了介面，實際上沒辦法選匯率、也算不出來，只能增加項目跟關閉視窗，而且連介面都不是很完整(
